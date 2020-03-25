@@ -1,1 +1,1 @@
-# go-experiment
+# go-experimental
